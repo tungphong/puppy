@@ -5,4 +5,7 @@ login computer
    mkdir puppy
    cd puppy
    git init
+   go mod init github.com/tungphong/puppy
+   go mod tidy
+
  
